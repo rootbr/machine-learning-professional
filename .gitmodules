@@ -1,0 +1,3 @@
+[submodule "lectures"]
+	path = lectures
+	url = git@github.com:rootbr/machine-learning-professional-lectures.git
